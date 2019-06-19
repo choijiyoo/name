@@ -128,7 +128,7 @@ a.navbar-brand{
 @media screen and (min-width: 600px;){
 	.glyphicon{
 	position: relative;
-	top: -150%!important;
+	top: -150% !important;
 	background-color: red;
 	}
 }
